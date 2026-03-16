@@ -33,5 +33,5 @@
   "overrides": {
     "vite": "npm:rolldown-vite@7.2.5"
   },
-  "homepage": "https://raju123.github.io/my-react-project"
+  "homepage": "https://raju123.github.io/bgcolorchange"
 }
